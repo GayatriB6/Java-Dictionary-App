@@ -1,0 +1,10 @@
+run,to move quickly on foot
+eat,to consume food
+sleep,to rest with eyes closed
+book,a collection of pages bound together
+computer,an electronic device that processes data
+java,a high-level programming language
+happy,feeling or showing pleasure
+study,the act of learning
+friend,a person you know and trust
+school,a place where children go to learn

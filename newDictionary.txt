@@ -1,0 +1,10 @@
+sleep,to rest with eyes closed
+computer,an electronic device that processes data
+study,the act of learning
+java,a high-level programming language
+school,a place where children go to learn
+book,a collection of pages bound together
+happy,feeling or showing pleasure
+friend,a person you know and trust
+eat,to consume food
+run,to move quickly on foot
